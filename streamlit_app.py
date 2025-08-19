@@ -644,8 +644,8 @@ else:
         st.markdown("""
         <div class="agent-card">
             <h3>🔍✨ Research Agent ✨🔍</h3>
-            <p><strong>🧠 Dr. Sarah Chen 🧠</strong></p>
-            <p>🎓 Senior AI Researcher</p>
+            <p><strong>🧠 Dr. Aditya Gupta 🧠</strong></p>
+            <p>🎓 AI Devloper</p>
             <p>"🌊 I dive deep into data oceans to surface the most valuable insights for your articles. 💎"</p>
             <p>🎯 <em>Specializes in fact-finding and trend analysis</em> 📈</p>
             <div style="margin-top: 1rem; font-size: 0.9rem; opacity: 0.9;">
