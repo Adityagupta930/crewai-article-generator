@@ -645,6 +645,7 @@ else:
         <div class="agent-card">
             <h3>🔍✨ Research Agent ✨🔍</h3>
             <p><strong>🧠 Dr. Aditya Gupta 🧠</strong></p>
+                    
             <p>🎓 AI Devloper</p>
             <p>"🌊 I dive deep into data oceans to surface the most valuable insights for your articles. 💎"</p>
             <p>🎯 <em>Specializes in fact-finding and trend analysis</em> 📈</p>
