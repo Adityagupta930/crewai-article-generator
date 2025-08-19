@@ -24,18 +24,3 @@ writer = Agent(
     backstory="You are a seasoned writer with a passion for storytelling and a knack for captivating readers. Your articles are not just informative but also engaging, making complex topics accessible to a wide audience.",
     llm=llm,
 )
-
-
-# Create crew
-crew = Crew(
-    agents=[research, writer],
-    tasks=[research_task, writer_task],
-    llm=llm,
-    verbose=True,
-    memory=True
-)
-
-# Execute crew
-if __name__ == "__main__":
-    result = crew.kickoff(inputs={"topic": "healthcare AI"})
-    print(result)
