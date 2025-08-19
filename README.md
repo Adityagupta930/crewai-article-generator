@@ -1,6 +1,6 @@
 # 🚀 CrewAI Article Generator
 
-![CrewAI Article Generator](https://via.placeholder.com/800x400/4a90e2/ffffff?text=%F0%9F%9A%80+CrewAI+Article+Generator)
+![CrewAI Article Generator](./assets/banner.svg)
 
 An AI-powered article generation tool using CrewAI agents with a beautiful Streamlit interface.
 
@@ -64,7 +64,9 @@ crewai-article-generator/
 
 ## 🎯 How It Works
 
-![How It Works](https://via.placeholder.com/600x300/007acc/ffffff?text=AI%20Agents%20Working%20Together)
+```
+🔍 Research Agent → 📊 Data Analysis → ✍️ Writer Agent → 📄 Article
+```
 
 1. **Choose a Topic**: Select from trending topics or enter your own
 2. **Configure Settings**: Customize length, style, and features
@@ -73,11 +75,11 @@ crewai-article-generator/
 
 ## 🤖 AI Agents
 
-![AI Agents](https://via.placeholder.com/500x250/4a90e2/ffffff?text=%F0%9F%94%8D%20Research%20%26%20%E2%9C%8D%EF%B8%8F%20Writer%20Agents)
+| Agent | Role | Specialty |
+|-------|------|----------|
+| 🔍 **Research Agent** | Senior Researcher | Uncovers groundbreaking technologies and trends |
+| ✍️ **Writer Agent** | Senior Writer | Crafts comprehensive and engaging articles |
 
 - **Research Agent**: Uncovers groundbreaking technologies and trends
 - **Writer Agent**: Crafts comprehensive and engaging articles
 
-## 📝 License
-
-This project is licensed under the MIT License.
